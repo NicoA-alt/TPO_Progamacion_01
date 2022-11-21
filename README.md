@@ -3,3 +3,5 @@ Integrantes:
   Alderete Nicolas
   Marco Deias
   Santiago Luna
+
+NO SE PUEDE RESERVAR CON FECHAS DE DIFERENTES MESES
